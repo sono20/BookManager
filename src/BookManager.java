@@ -24,6 +24,9 @@ public class BookManager {
         ksiazkiAutorzy.put("Hobbit", "J.R.R. Tolkien");
         ksiazkiAutorzy.put("Wiedźmin", "Andrzej Sapkowski");
         ksiazkiAutorzy.put("1984", "George Orwell");
+        ksiazkiAutorzy.put("Alchemik", "Paulo Coelho");
+        ksiazkiAutorzy.put("Quo Vadis", "Henryk Sienkiewicz");
+        ksiazkiAutorzy.put("Quo Vaidis", "Andrzej Dragan");
 
         System.out.println("=== SYSTEM ZARZĄDZANIA KSIĄŻKAMI ===\n");
 
